@@ -22,7 +22,7 @@ repository               : "vothanhphuong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Faculty-of-Pharmacy_square.jpg"
   name             : "Thanh-Phuong VO"
   pronouns         : # example: "she/her"  
   bio              : "Master 2 student in BioHealth Engineering with the focus on pharmacoinformatics and cancer research. I have expertise in computer-aided drug discovery, including homology modelling, molecular docking, molecular dynamics simulations, and ML/DL applications. "
