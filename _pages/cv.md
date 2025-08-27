@@ -48,10 +48,10 @@ Publications and Conferences
 4. Nguyen, Q.-T; Nguyen, S.-T.-T; Tran, T.-T.-N.; Truong, L.-M.-N.; **Vo, T.-P.**; Huynh, N.-L.; Pham, D.-L.-H.; Thai, K.-M.; Le, M.-T. In silico screening for small molecule inhibitors against Interleukin-18. *Vietnam Journal of Medicine and Pharmacy*. **2020**, 6, ISSN 2734 – 9209. [*[Full-text](https://vothanhphuong.github.io/files/In-silico-screening-for-small-molecule-inhibitors-against-Interleukin-18.pdf)*]
 
 ### Conferences
-1. Virtual Screening for Small Molecule Inhibitors against Interleukin-21 and Interleukin-21 Receptor in Treatment of Rheumatoid Arthritis. *Pharmaceutical Science and Technology Conference 40*. **2024** [*[Poster]()*]
-2. Discovery of Small Molecule Inhibitors against Matrix Metalloproteinases in Skin Antiaging Treatment using Computational Approach. *The 6th Rencontres de Quy Nhon: International Biology Conference 2023*. **2023** [*[Poster](https://vothanhphuong.github.io/files/BIO2023_HB_P14_apo.pdf)*]
-3. Deep Learning Classification Model of P-glycoprotein Inhibitors in Cancer Treatment. *Pharmaceutical Science and Technology Conference 39*. **2023** [*[Poster](https://vothanhphuong.github.io/files/BIO2023_HB_P14_apo.pdf)*]
-4. The Effects of One-Point Mutation on the New Delhi Metallo Beta-Lactamase-1 Resistance toward Carbapenem Antibiotics and β-Lactamase Inhibitors: An In Silico Systematic Approach. *Pharmaceutical Science and Technology Conference 38*. **2022** [*[Poster](https://vothanhphuong.github.io/files/NDM-1-HD-KN-08-1.pdf)*]
+1. Image-based Classification Model Predicting P-glycoprotein Inhibitors. *The 2ⁿᵈ International Conference on Chemical Sciences*. **2024** [*[Poster](https://vothanhphuong.github.io/files/ICCS2024-Pgp.pdf)*]
+2. Virtual Screening for Small Molecule Inhibitors against Interleukin-21 and Interleukin-21 Receptor in Treatment of Rheumatoid Arthritis. *Pharmaceutical Science and Technology Conference 40*. **2024** [*[Poster](https://vothanhphuong.github.io/files/SS2-PO-10.pdf)*]
+3. Discovery of Small Molecule Inhibitors against Matrix Metalloproteinases in Skin Antiaging Treatment using Computational Approach. *The 6th Rencontres de Quy Nhon: International Biology Conference 2023*. **2023** [*[Poster](https://vothanhphuong.github.io/files/BIO2023_HB_P14_apo.pdf)*]
+5. The Effects of One-Point Mutation on the New Delhi Metallo Beta-Lactamase-1 Resistance toward Carbapenem Antibiotics and β-Lactamase Inhibitors: An In Silico Systematic Approach. *Pharmaceutical Science and Technology Conference 38*. **2022** [*[Poster](https://vothanhphuong.github.io/files/NDM-1-HD-KN-08-1.pdf)*]
 
 Acheivements and Awards
 ======
