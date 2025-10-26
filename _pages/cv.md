@@ -75,7 +75,7 @@ Languages
 
 References
 ======
-**[Prof. Khac-Minh Thai](https://www.researchgate.net/profile/Khac-Minh-Thai)**
+**[Prof. Khac-Minh Thai](https://scholar.google.com/citations?user=UnKYFLoAAAAJ&hl=en)**
 * Position: Dean of Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City
 * Email: [tkminh@medvnu.edu.vn](mailto:tkminh@medvnu.edu.vn)
   
