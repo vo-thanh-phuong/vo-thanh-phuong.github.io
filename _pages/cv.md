@@ -63,7 +63,7 @@ Acheivements and Awards
 
 Skills
 ======
-* **Programing language:** Python
+* **Programing language:** Pascal, Python
 * **Pharmacoinformatics:** Homology modelling, Molecular docking, Molecular dynamics simulations, Mahchine learning/Deep learning application
 * **Personal skills:** Problem solving, crictical thinking, communication
 
