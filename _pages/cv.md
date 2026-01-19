@@ -75,7 +75,10 @@ Languages
 
 References
 ======
-**[Prof. Khac-Minh Thai](https://scholar.google.com/citations?user=UnKYFLoAAAAJ&hl=en)**
+**[Prof. Khac-Minh Thai, PhD](https://scholar.google.com/citations?user=UnKYFLoAAAAJ&hl=en)**
 * Position: Dean of Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City
-* Email: [tkminh@medvnu.edu.vn](mailto:tkminh@medvnu.edu.vn)
-  
+* Email: [tkminh@uhsvnu.edu.vn](mailto:tkminh@uhsvnu.edu.vn)
+
+**[Tan Thanh Mai, PhD](https://scholar.google.com/citations?user=E1atHc8AAAAJ&hl=en)**
+* Position: Department of Medicinal Chemistry, School of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City
+* Email: [mthtan@ump.edu.vn](mailto:mthtan@ump.edu.vn)
