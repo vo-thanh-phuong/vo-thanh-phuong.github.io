@@ -53,19 +53,25 @@ Publications and Conferences
 3. Discovery of Small Molecule Inhibitors against Matrix Metalloproteinases in Skin Antiaging Treatment using Computational Approach. *The 6th Rencontres de Quy Nhon: International Biology Conference 2023*. **2023** [*[Poster](https://vo-thanh-phuong.github.io/files/BIO2023_HB_P14_apo.pdf)*]
 5. The Effects of One-Point Mutation on the New Delhi Metallo Beta-Lactamase-1 Resistance toward Carbapenem Antibiotics and β-Lactamase Inhibitors: An In Silico Systematic Approach. *Pharmaceutical Science and Technology Conference 38*. **2022** [*[Poster](https://vo-thanh-phuong.github.io/files/NDM-1-HD-KN-08-1.pdf)*]
 
-Acheivements and Awards
+Achievements and Awards
 ======
-1. Chemistry, Biology, and Health (CBH) Graduate School Grenoble Alpes University Scholarship, **2025**.
+1. Chemistry, Biology, and Health (CBH) Graduate School, Grenoble Alpes University Scholarship, **2025**.
 2. Second Prize in Biotechnology – Biomedical at the Student Scientific Research Award – Euréka 2022. *The largest academic research competition for students in Vietnam*, **2022**.
-3. Top 10 projects (The final round) in AI-Challenge Competition at HCMC. *The research competition for students in Ho Chi Minh City about Artificial Intelligence*, **2022**.
+3. Top 10 projects (The final round) in the AI-Challenge Competition at HCMC. *The research competition for students in Ho Chi Minh City about Artificial Intelligence*, **2022**.
 4. The Third Prize in Mathematics at the Provincial Selection Competition, **2017**.
 5. Gold medal in Mathematics at Violympics competition. *The National Competition in Math, Vietnamese, English and Physics on the Internet in Vietnam*, **2014**.
 
 Skills
 ======
+### Technical skills
+* **Pharmacoinformatics:** Homology modelling, Molecular docking, Molecular dynamics simulations, Machine learning/Deep learning application
 * **Programing language:** Python
-* **Pharmacoinformatics:** Homology modelling, Molecular docking, Molecular dynamics simulations, Mahchine learning/Deep learning application
-* **Personal skills:** Problem solving, crictical thinking, communication
+* **Personal skills:** Problem solving, critical thinking, communication
+### Laboratory skills
+* **Microbiology and biology:** Aseptic techniques, bacterial culture, sterility testing, antimicrobial activity assays.
+* **Organic chemistry and pharmacognosy:** Organic and essential drug synthesis, extraction of natural products, purification.
+* **Analytical chemistry and quality control:** Chromatography (HPLC, TLC), UV-Vis spectrophotometry, IR spectroscopy, titration.
+* **Pharmaceutical technology:** Dosage form formulation and manufacturing processes, quality control in accordance with pharmacopoeias (USP, BP, Ph. Eur.).
 
 Languages
 ======
