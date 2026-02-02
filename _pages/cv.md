@@ -67,6 +67,7 @@ Skills
 * **Pharmacoinformatics:** Homology modelling, Molecular docking, Molecular dynamics simulations, Machine learning/Deep learning application
 * **Programing language:** Python
 * **Personal skills:** Problem solving, critical thinking, communication
+
 ### Laboratory skills
 * **Microbiology and biology:** Aseptic techniques, bacterial culture, sterility testing, antimicrobial activity assays.
 * **Organic chemistry and pharmacognosy:** Organic and essential drug synthesis, extraction of natural products, purification.
