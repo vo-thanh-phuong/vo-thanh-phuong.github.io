@@ -24,7 +24,7 @@ Research experiences
 
 ### 2024 - 2025: Visiting Researcher
   * Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Vietnam
-  * Supervisor: Prof. Khac-Minh Thai, PhD, Dean of Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City
+  * Supervisor: Prof. Khac-Minh Thai
   * Duties include:
     * Contribute to a chapter book on Machine Learning in Protein Structure Prediction
     * Evaluate the binding ability of Delta and Omicron towards the angiotensin-converting enzyme 2 receptor and antibodies with the applications of homology modeling, protein-protein docking, and molecular dynamics simulation [*[Full-text](https://vo-thanh-phuong.github.io/files/Binding-ability-of-Delta-and-Omicron-towards-the-angiotensin-converting-enzyme-2-receptor-and-antibodies-a-computational-study_fulltext.pdf)*]
@@ -87,6 +87,10 @@ Languages
 
 References
 ======
+**[Christophe Battail, PhD](https://scholar.google.com/citations?user=at9bmQQAAAAJ&hl=en)**
+* Position: CEA researcher, Biosciences and Bioengineering for Health Laboratory, Inserm Unit 13 (INSERM-CEA-Université Grenoble Alpes), Grenoble, France
+* Email: [christophe.battail@cea.fr](mailto:christophe.battail@cea.fr)
+
 **[Prof. Khac-Minh Thai, PhD](https://scholar.google.com/citations?user=UnKYFLoAAAAJ&hl=en)**
 * Position: Dean of Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City
 * Email: [tkminh@uhsvnu.edu.vn](mailto:tkminh@uhsvnu.edu.vn)
