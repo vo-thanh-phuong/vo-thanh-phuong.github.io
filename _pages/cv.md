@@ -38,7 +38,7 @@ Research experiences
 
 ### 2020 - 2023: Research Assistant - Computer-aided Drug Discovery Laboratory, Department of Medicinal Chemistry
   * Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City, Vietnam
-  * Supervisor: Prof. Khac-Minh Thai, PhD, Head of Department of Medicinal Chemistry, Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City, Vietnam
+  * Supervisor: Prof. Khac-Minh Thai
   * Duties included:
     * Integrate the CNN model and virtual screening approach to classify P-glycoprotein inhibitors ([Graduation thesis](https://vo-thanh-phuong.github.io/files/ICCS2022_P-gp-08112025.pdf): marked at 9.6/10.0).
     * Evaluate the effects of one-point mutation on the New Delhi Metallo Beta-Lactamase-1 (NDM-1) resistance toward Carbapenem antibiotics and β-Lactamase inhibitors: An *in silico* systematic approach. [*[Full-text](https://vo-thanh-phuong.github.io/files/ijms-23-16083-with-cover.pdf)*]
