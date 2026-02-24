@@ -18,7 +18,7 @@ Education
 Research experiences
 ======
 ### 2026: Master’s intern
-  * Biosciences and Bioengineering for Health Laboratory, Inserm Unit 13 (INSERM–CEA–Université Grenoble Alpes), Grenoble, France
+  * Biosciences and Bioengineering for Health Laboratory, Inserm Unit 13 (INSERM-CEA-Université Grenoble Alpes), Grenoble, France
   * Supervisor: Dr. Christophe Battail
   * Topics: AI models in pharmacogenomics
 
