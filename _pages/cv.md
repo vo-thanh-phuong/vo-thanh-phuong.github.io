@@ -20,7 +20,7 @@ Research experiences
 ### 2026: Master’s intern
   * Biosciences and Bioengineering for Health Laboratory, Inserm Unit 13 (INSERM-CEA-Université Grenoble Alpes), Grenoble, France
   * Supervisor: Dr. Christophe Battail
-  * Topics: AI models in pharmacogenomics
+  * Topic: AI models in pharmacogenomics
 
 ### 2024 - 2025: Visiting Researcher
   * Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Vietnam
