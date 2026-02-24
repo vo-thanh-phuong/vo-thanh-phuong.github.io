@@ -87,7 +87,7 @@ Languages
 
 References
 ======
-**[Christophe Battail, PhD](https://scholar.google.com/citations?user=at9bmQQAAAAJ&hl=en)**
+**[Dr. Christophe Battail](https://scholar.google.com/citations?user=at9bmQQAAAAJ&hl=en)**
 * Position: CEA researcher, Biosciences and Bioengineering for Health Laboratory, Inserm Unit 13 (INSERM-CEA-Université Grenoble Alpes), Grenoble, France
 * Email: [christophe.battail@cea.fr](mailto:christophe.battail@cea.fr)
 
@@ -95,6 +95,6 @@ References
 * Position: Dean of Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City
 * Email: [tkminh@uhsvnu.edu.vn](mailto:tkminh@uhsvnu.edu.vn)
 
-**[Tan Thanh Mai, PhD](https://scholar.google.com/citations?user=E1atHc8AAAAJ&hl=en)**
+**[Dr. Tan Thanh Mai](https://scholar.google.com/citations?user=E1atHc8AAAAJ&hl=en)**
 * Position: Department of Medicinal Chemistry, School of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City
 * Email: [mthtan@ump.edu.vn](mailto:mthtan@ump.edu.vn)
