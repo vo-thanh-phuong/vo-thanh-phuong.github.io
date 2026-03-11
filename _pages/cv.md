@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **2025 - 2026**: Master 2 in BioHealth Engineering, Université Grenoble Alpes, France
-  * [GPA](https://vo-thanh-phuong.github.io/files/Transcript_temporary_version_10032026.pdf): 16.41/20 (1<sup>st</sup> semester) - Top 3rd in class.
+  * [GPA](https://vo-thanh-phuong.github.io/files/Transcript_temporary_version_10032026.pdf): 16.41/20 (1<sup>st</sup> semester) - Top 3<sup>rd</sup> in class.
 * **2017 - 2022**: The Degree of Pharmacist, University of Medicine and Pharmacy at Ho Chi Minh city, Vietnam
 * **2014 - 2017**: Student in Mathematics class, Tran Hung Dao high school for the gifted, Vietnam
 
