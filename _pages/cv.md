@@ -37,7 +37,7 @@ Research experiences
     * Design and execute formulation trials, analytical testing, and evaluate stability data 
     * Develop manufacturing processes for R&D formulations so that the technical transfer is successful for large-scale batches.
 
-### 2020 - 2023: Research Assistant - Computer-aided Drug Discovery Laboratory, Department of Medicinal Chemistry
+### 2020 - 2023: Research Assistant - Computer-aided Drug Design Laboratory, Department of Medicinal Chemistry
   * Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City, Vietnam
   * Supervisor: Prof. Khac-Minh Thai
   * Duties included:
