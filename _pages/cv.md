@@ -28,7 +28,7 @@ Research experiences
   * Supervisor: Prof. Khac-Minh Thai
   * Duties include:
     * Contribute to a chapter book on Machine Learning in Protein Structure Prediction
-    * Evaluate the binding ability of Delta and Omicron towards the angiotensin-converting enzyme 2 receptor and antibodies with the applications of homology modeling, protein-protein docking, and molecular dynamics simulation [*[Full-text](https://vo-thanh-phuong.github.io/files/Binding-ability-of-Delta-and-Omicron-towards-the-angiotensin-converting-enzyme-2-receptor-and-antibodies-a-computational-study_fulltext.pdf)*]
+    * Evaluate the binding ability of Delta and Omicron towards the angiotensin-converting enzyme 2 receptor and antibodies with the applications of homology modeling, protein-protein docking, and molecular dynamics simulation [*[Full-text](https://doi.org/10.1080/07391102.2024.2446659)*]
 
 ### 2023 - 2024: Formulation Development Researcher
   * Research and Development Department, Stellapharm Joint Venture Company Limited, Vietnam
@@ -48,8 +48,8 @@ Research experiences
 Publications and Conferences
 ======
 ### Publications
-1. Nguyen, Q.-T.; Mai, T.-T.; Tuong L.-T.; Nguyen, T.-T.-N.; **Vo, T.-P.**; Nguyen, D.-N.; PhanVan, C.-T.; Trinh, T.-D.-T.; Tran, V.-T.; Thai, K.-M. Binding ability of Delta and Omicron towards the angiotensin-converting enzyme 2 receptor and antibodies: a computational study. *Journal of Biomolecular Structure and Dynamics*. **2025**, 43(18), 10785–10797. [*[Full-text](https://vo-thanh-phuong.github.io/files/Binding-ability-of-Delta-and-Omicron-towards-the-angiotensin-converting-enzyme-2-receptor-and-antibodies-a-computational-study_fulltext.pdf)*]
-2. Tran, V.-T.; Tran, V.-H.; Nguyen, D.-N.; Do, T.-G.-S.; **Vo, T.-P.**; Nguyen, T.-T.-N.; Huynh, P.N.H.; Thai, K.-M. The Effects of One-Point Mutation on the New Delhi Metallo BetaLactamase-1 Resistance toward Carbapenem Antibiotics and β-Lactamase Inhibitors: An *In Silico* Systematic Approach. *International Journal of Molecular Sciences*. **2022**, 23, 16083. [*[Full-text](https://vo-thanh-phuong.github.io/files/ijms-23-16083-with-cover.pdf)*]
+1. Nguyen, Q.-T.; Mai, T.-T.; Tuong L.-T.; Nguyen, T.-T.-N.; **Vo, T.-P.**; Nguyen, D.-N.; PhanVan, C.-T.; Trinh, T.-D.-T.; Tran, V.-T.; Thai, K.-M. Binding ability of Delta and Omicron towards the angiotensin-converting enzyme 2 receptor and antibodies: a computational study. *Journal of Biomolecular Structure and Dynamics*. **2025**, 43(18), 10785–10797. [*[Full-text](https://doi.org/10.1080/07391102.2024.2446659)*]
+2. Tran, V.-T.; Tran, V.-H.; Nguyen, D.-N.; Do, T.-G.-S.; **Vo, T.-P.**; Nguyen, T.-T.-N.; Huynh, P.N.H.; Thai, K.-M. The Effects of One-Point Mutation on the New Delhi Metallo BetaLactamase-1 Resistance toward Carbapenem Antibiotics and β-Lactamase Inhibitors: An *In Silico* Systematic Approach. *International Journal of Molecular Sciences*. **2022**, 23, 16083. [*[Full-text](https://doi.org/10.3390/ijms232416083)*]
 3. Le, M.-T.; Nguyen, H.-M.; Vu, T.-T.-T.; Tran, M.-N.; **Vo, T.-P.**; Pham, D.-L.-H.; Do, T.-T.; Mai, T.-T.; Thai, K.-M. *In silico* screening for small molecule inhibitors against Interleukin-1β (IL-1R1). *Vietnam Journal of Medicine and Pharmacy*. **2021**, 20, ISSN 2734 – 9209. [*[Full-text](https://vo-thanh-phuong.github.io/files/In-silico-screening-for-small-molecule-inhibitors-against-Interleukin-1β-(IL-1R1).pdf)*]
 4. Nguyen, Q.-T; Nguyen, S.-T.-T; Tran, T.-T.-N.; Truong, L.-M.-N.; **Vo, T.-P.**; Huynh, N.-L.; Pham, D.-L.-H.; Thai, K.-M.; Le, M.-T. In silico screening for small molecule inhibitors against Interleukin-18. *Vietnam Journal of Medicine and Pharmacy*. **2020**, 6, ISSN 2734 – 9209. [*[Full-text](https://vo-thanh-phuong.github.io/files/In-silico-screening-for-small-molecule-inhibitors-against-Interleukin-18.pdf)*]
 
