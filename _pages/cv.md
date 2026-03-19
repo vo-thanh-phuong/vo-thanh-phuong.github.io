@@ -28,7 +28,7 @@ Research experiences
   * Supervisor: Prof. Khac-Minh Thai
   * Duties include:
     * Contribute to a chapter book on Machine Learning in Protein Structure Prediction
-    * Evaluate the binding ability of Delta and Omicron towards the angiotensin-converting enzyme 2 receptor and antibodies with the applications of homology modeling, protein-protein docking, and molecular dynamics simulation [*[Full-text](https://doi.org/10.1080/07391102.2024.2446659)*]
+    * Evaluate the binding ability of Delta and Omicron towards the angiotensin-converting enzyme 2 receptor and antibodies with the applications of homology modeling, protein-protein docking, and molecular dynamics simulation [*[Full-text](https://vo-thanh-phuong.github.io/files/Binding-ability-of-Delta-and-Omicron-towards-the-angiotensin-converting-enzyme-2-receptor-and-antibodies-a-computational-study_fulltext.pdf)*]
 
 ### 2023 - 2024: Formulation Development Researcher
   * Research and Development Department, Stellapharm Joint Venture Company Limited, Vietnam
