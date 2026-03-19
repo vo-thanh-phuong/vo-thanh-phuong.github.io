@@ -1,7 +1,7 @@
 ---
 title: "Introduction to AI for Omics"
 collection: talks
-type: "Course: Biomedical Informatics for third year's pharmacy undergrate student"
+type: "Course: Biomedical Informatics for third-year pharmacy student"
 permalink: /talks/2026-03-13-Intro_AI_Omics.md
 venue: "Faculty of Pharmacy, University of Health Sciences"
 date: 2026-03-13
