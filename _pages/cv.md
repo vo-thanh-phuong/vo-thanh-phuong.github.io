@@ -91,7 +91,7 @@ Languages
 References
 ======
 **[Prof. Khac-Minh Thai](https://scholar.google.com/citations?user=UnKYFLoAAAAJ&hl=en)**
-* Position: Dean of Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City
+* Position: Dean of Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Vietnam
 * Email: [tkminh@uhsvnu.edu.vn](mailto:tkminh@uhsvnu.edu.vn)
   
 **[Dr. Christophe Battail](https://scholar.google.com/citations?user=at9bmQQAAAAJ&hl=en)**
@@ -99,5 +99,5 @@ References
 * Email: [christophe.battail@cea.fr](mailto:christophe.battail@cea.fr)
 
 **[Dr. Tan Thanh Mai](https://scholar.google.com/citations?user=E1atHc8AAAAJ&hl=en)**
-* Position: Department of Medicinal Chemistry, School of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City
+* Position: Lecturer-Researcher, Department of Medicinal Chemistry, School of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City, Vietnamm
 * Email: [mthtan@ump.edu.vn](mailto:mthtan@ump.edu.vn)
