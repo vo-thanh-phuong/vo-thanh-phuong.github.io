@@ -2,7 +2,7 @@
 title: "Introduction to AI for Omics"
 collection: talks
 type: "Course: Biomedical Informatics for third-year pharmacy students"
-permalink: /talks/2026-03-13-Intro_AI_Omics.md
+permalink: /talks/2026-03-13-Intro_AI_Omics
 venue: "Faculty of Pharmacy, University of Health Sciences"
 date: 2026-03-13
 location: "Vietnam National University Ho Chi Minh City, Vietnam"
