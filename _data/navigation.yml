@@ -14,8 +14,8 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "My Talks"
-    url: /talks/    
+  # - title: "My Talks"
+  #   url: /talks/    
 
   #- title: "Publications"
   #  url: /publications/
