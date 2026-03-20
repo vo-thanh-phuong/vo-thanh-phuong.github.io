@@ -4,7 +4,7 @@ collection: references
 type: ""
 permalink: /references/reference-1
 venue: "Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Vietnam"
-date: 
+date: ""
 location: ""
 ---
 
