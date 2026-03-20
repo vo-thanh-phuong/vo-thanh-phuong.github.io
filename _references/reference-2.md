@@ -8,5 +8,5 @@ date:
 location: ""
 ---
 
-* Email: [tkminh@uhsvnu.edu.vn](mailto:tkminh@uhsvnu.edu.vn)
+* Email: [christophe.battail@cea.fr](mailto:christophe.battail@cea.fr)
 * My main supervisor for my Master's thesis. 
