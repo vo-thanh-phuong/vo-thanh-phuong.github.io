@@ -4,7 +4,7 @@ collection: references
 type: ""
 permalink: /references/reference-3
 venue: "Department of Medicinal Chemistry, School of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City, Vietnamm"
-date: 
+date: ""
 location: ""
 ---
 
