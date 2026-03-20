@@ -88,8 +88,10 @@ Languages
 2. **Vietnamese:** Native
 3. **French:** Basic level
 
-References
+[References](https://vo-thanh-phuong.github.io/references)
 ======
+
+<!--
 **[Prof. Khac-Minh Thai](https://scholar.google.com/citations?user=UnKYFLoAAAAJ&hl=en)**
 * Position: Dean of Faculty of Pharmacy, University of Health Sciences, Vietnam National University Ho Chi Minh City, Vietnam
 * Email: [tkminh@uhsvnu.edu.vn](mailto:tkminh@uhsvnu.edu.vn)
@@ -101,3 +103,4 @@ References
 **[Dr. Tan Thanh Mai](https://scholar.google.com/citations?user=E1atHc8AAAAJ&hl=en)**
 * Position: Lecturer-Researcher, Department of Medicinal Chemistry, School of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City, Vietnamm
 * Email: [mthtan@ump.edu.vn](mailto:mthtan@ump.edu.vn)
+-->
