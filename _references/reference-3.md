@@ -8,4 +8,4 @@ location: ""
 ---
 
 * Email: [mthtan@ump.edu.vn](mailto:mthtan@ump.edu.vn)
-* My co-supervisor during my time as a Research Assistant in the Computer-Aided Drug Design Laboratory.. 
+* My co-supervisor during my time as a Research Assistant in the Computer-Aided Drug Design Laboratory (from 2020 to 2023).
