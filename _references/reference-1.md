@@ -8,4 +8,4 @@ location: ""
 ---
 
 * Email: [tkminh@uhsvnu.edu.vn](mailto:tkminh@uhsvnu.edu.vn)
-* My main supervisor for my undergraduate thesis and my period as a Research Assistant in Computer-aided Drug Design Laboratory. 
+* My main supervisor for my undergraduate thesis and my period as a Research Assistant in Computer-aided Drug Design Laboratory (from 2020 to 2025). 
