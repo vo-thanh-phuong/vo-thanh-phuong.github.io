@@ -8,4 +8,4 @@ location: ""
 ---
 
 * Email: [christophe.battail@cea.fr](mailto:christophe.battail@cea.fr)
-* My main supervisor for my Master's thesis. 
+* My main supervisor for my Master's thesis (from Apr 2026 to Sep 2026). 
