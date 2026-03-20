@@ -229,7 +229,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
- references:
+  references:
     output: true
     permalink: /:collection/:path/
 
