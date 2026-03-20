@@ -4,7 +4,6 @@ collection: references
 type: ""
 permalink: /references/reference-2
 venue: "Biosciences and Bioengineering for Health Laboratory, Inserm Unit 13 (INSERM-CEA-Université Grenoble Alpes), Grenoble, France"
-date: ""
 location: ""
 ---
 
