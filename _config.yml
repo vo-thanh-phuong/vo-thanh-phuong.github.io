@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "Annecy2.jpg"
   name             : "Thanh-Phuong VO"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "Master 2 student in BioHealth Engineering with the focus on pharmacoinformatics and cancer research. I have expertise in computer-aided drug discovery, including homology modelling, molecular docking, molecular dynamics simulations, and ML/DL applications. "
   location         : "Grenoble, France"
   employer         : "Grenoble Alpes University"
